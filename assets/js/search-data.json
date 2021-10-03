@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "An Example Markdown Post",
+            "title": "Myplexer",
             "content": "myplexer . Problem Statement . Implement a small python library MyPlexer (and share back with us) which can call different functions based on the console input. The usage (check the comments) of this library is shown here https://www.onlinegdb.com/qOW7BDq1_ . A sample run of the above code is shown in the image (green is input, white is output). Use the sample usage and the sample run to understand the specification of your library. . Installation . After you clone/download the code, build and install the library using: . # Make sure you have an updated version of the &quot;build&quot; package. python3 -m pip install --upgrade build python3 -m build . Usage . Refer main.py for sample usage .",
-            "url": "https://lneeraj97.github.io/blog/markdown/2020/10/03/my-first-blog.html",
-            "relUrl": "/markdown/2020/10/03/my-first-blog.html",
+            "url": "https://lneeraj97.github.io/blog/markdown/first/2020/10/03/my-first-blog.html",
+            "relUrl": "/markdown/first/2020/10/03/my-first-blog.html",
             "date": " • Oct 3, 2020"
         }
         
